@@ -1,2 +1,2 @@
-# ares.github.io
+# itemply.github.io
 Ares discord bot site.
